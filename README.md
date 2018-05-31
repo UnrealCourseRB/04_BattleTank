@@ -21,3 +21,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT17 UI Scale Box, Buttons & Mouse
 * BT18 Controller Ready Navigation
 * BT19 Creating Unreal Engine UI with UMG and C++
+* BT20 Delegating to Components
