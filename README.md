@@ -25,3 +25,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT21 Using Virtual & Override
 * BT22 Overloading & Polymorphism
 * BT23 Virtual Functions & Vtables
+* BT24 Creating an AI Controller Class
