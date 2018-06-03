@@ -24,3 +24,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT20 Delegating to Components
 * BT21 Using Virtual & Override
 * BT22 Overloading & Polymorphism
+* BT23 Virtual Functions & Vtables
