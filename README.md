@@ -32,4 +32,6 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT28 Finding Screen Pixel Coordinates
 * BT29 Using DeprojectScreenToWorld
 * BT30 Using LineTraceSingleByChannel
+* BT31 Unify Player & AI Aiming
+* BT32 Create Default Subobjects in C++
 
