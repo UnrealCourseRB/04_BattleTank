@@ -36,4 +36,5 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT32 Create Default Subobjects in C++
 * BT33 BlueprintCallable()
 * BT34 SuggestProjectileVelocity()
+* BT35 Predict Projectile Landing Point
 
