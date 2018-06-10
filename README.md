@@ -37,4 +37,5 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT33 BlueprintCallable()
 * BT34 SuggestProjectileVelocity()
 * BT35 Predict Projectile Landing Point
+* BT36 Using FRotators in Unreal
 
