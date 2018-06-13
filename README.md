@@ -39,4 +39,5 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT35 Predict Projectile Landing Point
 * BT36 Using FRotators in Unreal
 * BT37 The C++ Compilation Process
+* BT38 Using Forward Declarations
 
