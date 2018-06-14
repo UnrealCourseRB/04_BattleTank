@@ -43,4 +43,5 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT39 BlueprintSpawnableComponent()
 * BT40 Review Our Execution Flow
 * BT41 How To Report Bugs
+* BT42 Using Clamp() to Limit Values
 
