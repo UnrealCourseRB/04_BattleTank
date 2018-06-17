@@ -52,5 +52,6 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT48 Using SpawnActor<>() To Spawn
 * BT49 Projectile Movement Components
 * BT50 Making AI Tanks Fire
+* BT51 EditAnywhere vs EditDefaultsOnly
 
 
