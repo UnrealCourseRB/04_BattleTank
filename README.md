@@ -50,5 +50,6 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT46 Upgrade Project
 * BT47 Working Around Awkward Bugs
 * BT48 Using SpawnActor<>() To Spawn
+* BT49 Projectile Movement Components
 
 
