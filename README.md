@@ -61,5 +61,6 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT57 Using BlueprintReadOnly
 * BT58 A Better Component Architecture
 * BT59 Completing Manual Tank Movement
+* BT60 Introducing AI Pathfinding
 
 
