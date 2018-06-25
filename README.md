@@ -65,5 +65,6 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT61 Dissecting RequestDirectMove()
 * BT62 DotProduct() Vector Operator
 * BT63 CrossProduct() Vector Operator
+* BT64 Finalising Your Class Code
 
 
