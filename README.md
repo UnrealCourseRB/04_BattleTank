@@ -67,5 +67,6 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT63 CrossProduct() Vector Operator
 * BT64 Finalising Your Class Code
 * BT65 How to Use Blueprint Variables
+* BT66 Using Enum(erations) in UE4
 
 
