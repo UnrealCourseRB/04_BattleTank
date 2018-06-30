@@ -5,7 +5,7 @@
 
 void ATankAIController::BeginPlay()
 {
-	Super::BeginPlay(); 
+	Super::BeginPlay();
 }
 
 void ATankAIController::Tick(float DeltaTime)
