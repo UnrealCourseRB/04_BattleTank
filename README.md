@@ -72,5 +72,6 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT68 Constructor & Begin Play Timing
 * BT69 Decoupling Your Architecture
 * BT70 BlueprintImplementableEvent
+* BT71 Using the ensure Assertion
 
 
