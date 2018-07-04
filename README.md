@@ -73,5 +73,6 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT69 Decoupling Your Architecture
 * BT70 BlueprintImplementableEvent
 * BT71 Using the ensure Assertion
+* BT72 Dependency Mapping
 
 
