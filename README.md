@@ -84,3 +84,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT80 OnComponentHit Event in 4.12
 * BT81 Avoiding Boolean Flags
 * BT82 Improving Tank Aiming
+* BT83 Tweaking Tank AI

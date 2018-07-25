@@ -27,13 +27,15 @@ class BATTLETANK_API UTankAimingComponent : public UActorComponent
 	GENERATED_BODY()
 
 public:	
+	void AimAt(FVector HitLocation);
+
+	EFiringState GetFiringState() const;
+	
 	UFUNCTION(BlueprintCallable, Category = "Setup")
 	void Initialise(UTankBarrel* BarrelToSet, UTankTurret* TurretToSet);
 
 	UFUNCTION(BlueprintCallable, Category = "Firing")
-	void Fire();
-
-	void AimAt(FVector HitLocation);	
+	void Fire();	
 
 protected:
 	// Needs to be protected because the Blueprint class needs to access it
