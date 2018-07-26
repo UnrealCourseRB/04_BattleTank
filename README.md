@@ -85,3 +85,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT81 Avoiding Boolean Flags
 * BT82 Improving Tank Aiming
 * BT83 Tweaking Tank AI
+* BT84 Making an Ammo Display
