@@ -87,3 +87,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT83 Tweaking Tank AI
 * BT84 Making an Ammo Display
 * BT85 Making an AutoMortar
+* BT86 Using the Reference Viewer
