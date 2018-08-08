@@ -92,4 +92,5 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT88 Introducing Particle Systems
 * BT89 Particle Bounding Boxes
 * BT90 Using FAttachmentTransformRules
-* BT91 Radial Forces & Caching
+* BT91 Radial Forces & Caching.
+* BT92 Using GetTimerManager()
