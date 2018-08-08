@@ -94,3 +94,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT90 Using FAttachmentTransformRules
 * BT91 Radial Forces & Caching.
 * BT92 Using GetTimerManager()
+* BT93 Using TakeDamage() on Actors
