@@ -99,3 +99,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT95 The Observer Pattern
 * BT96 Finishing Off - Part I
 * BT97 Finishing Off - Part II
+* BT98 Switching Cameras
