@@ -106,3 +106,4 @@ An open-world head-to-head tank fight with simple AI, terrain, and advanced cont
 * BT102 Making Springs
 * BT103 Converting The Spring To C++
 * BT104 Attachment, Actors and Components
+* BT105 SpawnActorDeferred and BeginPlay
